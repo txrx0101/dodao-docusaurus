@@ -35,7 +35,7 @@ If something is not mentioned it means that the development has not been started
 
 Here is how current [dodao smart contract diamond](https://github.com/devopsdao/devopsdao-smart-contract-diamond) architecture looks like.
 
-![Alt](./img/dodao-smart-contract-arch-mermaid.png)
+![smart contract architecture](./img/dodao-smart-contract-arch-mermaid.png)
 
 Note:
 

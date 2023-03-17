@@ -14,11 +14,14 @@ dodao.dev allows for greater scalability and flexibility. With dodao and its NFT
 
 # Dodao workflow details
 
+
+![smart contract architecture](./img/try as performer Iphone.png)
+
 Dodao.dev dApp is built as an uniform platform to bring all software development processes to blockchain. It will be used as work marketplace for developers and art creators. Dodao.devusers currently have three roles:
 
-    customer
-    performer
-    auditor
+* customer
+* performer
+* auditor
 
 Customer is able to create Task contract with DEV and aUSDC tokens as a reward. Once Performers apply for a Task, Customer is able to select the Performer for Task implementation. After the Task is implemented the Performer applies for a Customer review. Currently all negotiations are performed off-chain via Customer selected method (such as Telegram or Discord for example). When Customer is happy with the work done, he signs the review and the Performer will be able to withdraw the tokens to his preferred blockchain supported by Axelar (Moonbase, Ethereum, Binance, Fantom, Avalanche, Polygon). If any dispute occurs an Auditor can be invited to review the task and settle it.
 
