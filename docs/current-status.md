@@ -19,6 +19,9 @@ The current readiness status for the mainnet launch is mentioned in the [braces]
 
 ### Diamond HLD
 
+
+
+
 ```mermaid
 graph TB;
 A[main Diamond facet] -- TaskCreateFacet --> B[create immutable Task contract]
