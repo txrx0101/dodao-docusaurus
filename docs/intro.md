@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# About dodao.dev
+# About dodao
 
 Let's discover **Dodao in less than 5 minutes**.
+
+![support us](./img/support-dodao-iphone.png)
 
 dodao.dev is a decentralized and permissionless marketplace for tech talents and art creators.
 DApp takes advantage of EIP-2535 Diamond based smart contract DAO upgradeability, ERC-1155 multitoken flexibility, Flutter crossplatform support and several omnichain layers.
@@ -14,14 +16,11 @@ dodao.dev allows for greater scalability and flexibility. With dodao and its NFT
 
 # Dodao workflow details
 
-
-![smart contract architecture](./img/try as performer Iphone.png)
-
 Dodao.dev dApp is built as an uniform platform to bring all software development processes to blockchain. It will be used as work marketplace for developers and art creators. Dodao.devusers currently have three roles:
 
-* customer
-* performer
-* auditor
+- customer
+- performer
+- auditor
 
 Customer is able to create Task contract with DEV and aUSDC tokens as a reward. Once Performers apply for a Task, Customer is able to select the Performer for Task implementation. After the Task is implemented the Performer applies for a Customer review. Currently all negotiations are performed off-chain via Customer selected method (such as Telegram or Discord for example). When Customer is happy with the work done, he signs the review and the Performer will be able to withdraw the tokens to his preferred blockchain supported by Axelar (Moonbase, Ethereum, Binance, Fantom, Avalanche, Polygon). If any dispute occurs an Auditor can be invited to review the task and settle it.
 
@@ -29,7 +28,11 @@ Customer is able to create Task contract with DEV and aUSDC tokens as a reward. 
 
 ## Dodao technology highlights
 
-Arweave, Axelar, Dart, Flutter, Moonbeam, Solidity, Walletconnect, Ethereum EIP-2535 Diamonds, EIP-1155 multi token contracts.
+blockchain: Moonbeam
+Connected contracts: Axelar, Hyperlane, LayerZero, Wormhole
+storage: arweave
+App: Dart, Flutter, Walletconnect
+Smart contract: Solidity, Ethereum EIP-2535 Diamonds, EIP-1155 multi token contracts
 
 Devopsdao dApp is built on Flutter 3 powered by Dart language. Framework optimized for fast native apps on any platform.
 
@@ -49,15 +52,19 @@ For Web3 interaction we support our own WebThree library.
 ## Testing
 
 1. Apply for [dodao.dev dAPP testing program](https://www.devopsdao.com/devopsdao-dapp-testing-program/), read more in [medium article](https://dodao.medium.com/test-the-devopsdao-dapp-from-customer-perspective-585b1c3babda)
-2. Open [dodao.dev dApp](https://dodao.dev)
+2. Open [dodao.dev dApp](https://dodao.dev) or download latest [Android release](https://github.com/devopsdao/devopsdao/tags)
 3. feedback bugs on [dodao telegram](https://t.me/dodao_group) or [dodao discord](https://discord.gg/qJwsv45QTd)
 
 ## Promoting
+
+![support us](./img/become-an-ambassador-iphone.png)
 
 1. Apply for [dodao.dev Ambassadorship](https://dodao.medium.com/become-a-devopsdao-ambassador-8c9a640f5156)
 2. Share your activities on [dodao telegram](https://t.me/dodao_group) or [dodao discord](https://discord.gg/qJwsv45QTd)
 
 ## Earning
+
+![try as performer](./img/try-as-performer-iphone.png)
 
 1. Based on your skill profile apply for [dodao.dev developer](https://www.devopsdao.com/developer-onboarding-application/) or [dodao.dev creator](https://www.devopsdao.com/creator-onboarding-application/) program
 2. Contribute and share on [dodao telegram](https://t.me/dodao_group) or [dodao discord](https://discord.gg/qJwsv45QTd)

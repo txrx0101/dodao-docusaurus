@@ -108,8 +108,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/dodao',
+                label: 'Telegram',
+                href: 'https://t.me/dodao_announcements',
               },
               {
                 label: 'Discord',
@@ -119,15 +119,27 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/dodaodev',
               },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/@dodao',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/dodao.dev/',
+              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/dodao',
+              // },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/devopsdao',
