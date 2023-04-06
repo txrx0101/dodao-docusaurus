@@ -1,33 +1,34 @@
-
-Skip to content
 Ambassador Program
 
-The mission of Devopsdao is to become a major platform for software development in the blockchain community – not only because of its innovative technology, but also because of its close-knit community. Devopsdao will be owned and governed by its stakeholders (developers, shareholders, board members and DAO Treasury). We have been inspired by the low gas fees and speed of Moonbeam network and its compatibility with ERC20, and strongly believe that traditional recruitment processes in an epoch of post-covid shift from offices to home-office work needs to be changed and decentralized. Our app aims to help crypto community to manage recruitment in a preferred crypto way, residing in crypto space.
+![support us](../img/become-an-ambassador-iphone.png)
+
+The mission of Dodao is to become a major platform for software development in the blockchain community – not only because of its innovative technology, but also because of its close-knit community. Dodao will be owned and governed by its stakeholders (developers, shareholders, board members and DAO Treasury). We have been inspired by the low gas fees and speed of Moonbeam network and its compatibility with ERC20, and strongly believe that traditional recruitment processes in an epoch of post-covid shift from offices to home-office work needs to be changed and decentralized. Our app aims to help crypto community to manage recruitment in a preferred crypto way, residing in crypto space.
 Who are you?
 
     You are passionate about technology and Blockchain solutions
     You are a pioneer for current StartUps with a huge future potential based on technical facts
-    You want access to the team building devopsdao
-    You are excited to impact the growth of devopsdao
+    You want access to the team building Dodao
+    You are excited to impact the growth of Dodao
     You are interested in networking with other people in the Blockchain community
 
 What you´ll do
 
     You share Content like Blog Posts, Social Media Content, Video Tutorials, Marketing Material etc.
     You support teams in coding dApps
-    You host meetups and present on behalf of devopsdao
+    You host meetups and present on behalf of Dodao
     You represent your region in the community
-    You get support for initiatives that support the devopsdao mission
-    You participate in regular update calls with other ambassadors and devopsdao team members
+    You get support for initiatives that support the Dodao mission
+    You participate in regular update calls with other ambassadors and Dodao team members
 
-Become an ambassador
+[Apply here to become an Ambassador](https://forms.gle/X1BoC8rVJaDinncQ6)
+
 Ambassador Benefits
 
 As you help advance our vision for a serverless, Crosschain and multi-chain future, you’ll also benefit from a few great perks.
 
 Resources
 
-Direct access to the devopsdao team and leadership for support
+Direct access to the Dodao team and leadership for support
 
  
 
@@ -51,7 +52,7 @@ Help us to grow our community, we support you in realizig your visions support d
 Apply here
 How Ambassador Contributes to the Community
 
-There are many areas in which you can contribute to devopsdao, depending on your background and skills. As well we support your own initiatives that you feel could benefit the project.
+There are many areas in which you can contribute to Dodao, depending on your background and skills. As well we support your own initiatives that you feel could benefit the project.
 
 Community Management
 
@@ -81,4 +82,4 @@ After becoming an ambassador there will be additional levels to achieve where yo
 Apply here
 Speak with our Experts:
 
-Devopsdao is built by a smart team of blockchain and database engineers and project managers, passionate about improving and scaling blockchain technologies.
+Dodao is built by a smart team of blockchain and database engineers and project managers, passionate about improving and scaling blockchain technologies.

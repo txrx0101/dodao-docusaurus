@@ -1,20 +1,21 @@
+About Dodao
 
-Skip to content
-About Devopsdao
 
-The mission of Devopsdao is becoming a major dApp platform for software development in the blockchain community – not only because of its innovative technology, but also because of its community full of experts and vision. Devopsdao will be owned and governed by developers. We have been inspired by the low gas fees and speed of Moonbeam network and its compatibility with ERC20, and strongly believe that traditional recruitment processes in an epoch of post-covid shift from offices to home-office work needs to be changed and decentralized.
+![try as performer](../img/test-dodao-iphone.png)
 
-That we have won a price on the first hackathon weh ave joined is a good sign we are on the right way. Find more information here.
-Why Devopsdao?
+The mission of Dodao is becoming a major dApp platform for software development in the blockchain community – not only because of its innovative technology, but also because of its community full of experts and vision. Dodao will be owned and governed by developers. We have been inspired by the low gas fees and speed of Moonbeam network and its compatibility with ERC20, and strongly believe that traditional recruitment processes in an epoch of post-covid shift from offices to home-office work needs to be changed and decentralized.
+
+That we have won a prize on the first hackathon weh ave joined is a good sign we are on the right way. Find more information here.
+Why Dodao?
 
 There is no other project comparable to ours currently in the market. We are launching as a fully decentralized mobile app available on iOS, Android and also on Microsoft, MacOS and Linux.
-Devopsdao dApp Testing Program
+Dodao dApp Testing Program
 This kind of people we are looking for
 
     Passionate about technology and believes in Blockchain solutions.
-    Want to get involved with the devopsdao team and help the project grow.
+    Want to get involved with the Dodao team and help the project grow.
     Interested in networking with other people in the Blockchain community
-    You are excited to impact the growth of devopsdao
+    You are excited to impact the growth of Dodao
 
 You are interested in
 
@@ -22,15 +23,15 @@ You are interested in
     Software Development
     Blockchain Development
     Technical Writing
-    Impact on devopsdaos growth
+    Impact on Dodaos growth
     Exchange of experiences with like-minded people
 
-Apply here to become a dApp Tester of Devopsdao
-What is the Devopsdao dApp Testing Program about?
+Apply here to become a dApp Tester of Dodao
+What is the Dodao dApp Testing Program about?
 
-Become a Devopsdao Tester
+Become a Dodao Tester
 
-Apply to become a Devopsdao dApp Tester. Fill out the Form to start the process now.
+Apply to become a Dodao dApp Tester. Fill out the Form to start the process now.
 
 Onboarding of our Testers
 
@@ -38,11 +39,11 @@ After we selected you, you get access to dedicated groups, step by step Instruct
 
 Start testing the dApp
 
-Follow our Insructions, find bugs, suggest improvement ideas and help devopsdao become a dApp making fun while using it.
+Follow our Insructions, find bugs, suggest improvement ideas and help Dodao become a dApp making fun while using it.
 
 Give us Feedback
 
-Be an active part of the future of Devopsdao. Your Feedback will taken into account for further development.
+Be an active part of the future of Dodao. Your Feedback will taken into account for further development.
 Become a dApp Tester
 Developer Program Benefits
 
@@ -50,29 +51,31 @@ As you help advance our vision for a serveless, Crosschain and multi-chain futur
 
 Resources:
 
-Direct access to the devopsdao team and leadership for guidance and support
+Direct access to the Dodao team and leadership for guidance and support
 
 Networking
 
-Access to private devopsdao developer Telegram group, Discord channel and regular calls with other team members and developers
+Access to private Dodao developer Telegram group, Discord channel and regular calls with other team members and developers
 
 Early Access
 
 Priority access and first-call to whitelisting spots, events, bounties, hackathons, and more
-Apply here
+
+[Apply here to become a Tester](https://forms.gle/X1BoC8rVJaDinncQ6)
+
 Learn how to try out our dApp
 
 How to get some DEV test tokens
 
-How to test devopsdao as customer
+How to test Dodao as customer
 Find more technical details here:
 
-https://github.com/devopsdao
+https://github.com/Dodao
 
-https://devpost.com/devopsdao
+https://devpost.com/Dodao
 Our latest Blog Posts:
 
-What is Devopsdao about?
+What is Dodao about?
 
 Our Roadmap
 
@@ -82,7 +85,7 @@ Web3 Library
 
 How to get some DEV test tokens
 
-How to test devopsdao as customer
+How to test Dodao as customer
 Our Social Channels
 
 https://twitter.com/devops_dao
@@ -91,9 +94,9 @@ https://www.instagram.com/devops_dao/
 
 https://www.facebook.com/profile.php?id=100085403180235
 
-https://www.linkedin.com/company/devopsdao/
+https://www.linkedin.com/company/Dodao/
 
 https://www.youtube.com/channel/UCh-32ii7YmUCFXCQf2nibrQ
 Speak with our Experts
 
-Devopsdao is built by a smart team of blockchain and database engineers and project managers, passionate about improving and scaling blockchain technologies.
+Dodao is built by a smart team of blockchain and database engineers and project managers, passionate about improving and scaling blockchain technologies.
