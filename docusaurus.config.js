@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dodao docs',
-  tagline: 'Documentation of the first Decentralised Job Exchange for tech talents, art creators and business professionals.',
+  tagline: 'Documentation of decentralized marketplace for tech talents, art creators and business professionals.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logos/LBColor.png',
+      image: 'img/logos/LBColor-white-eye.png',
       navbar: {
-        title: 'Dodao.dev overview and docs',
+        title: 'Overview',
         logo: {
           alt: 'Dodao Logo',
-          src: 'img/logos/LColor.svg',
+          src: 'img/logos/LBColor-white-eye.svg',
         },
         items: [
           {
@@ -108,8 +108,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Telegram',
+                label: 'Telegram Announcements',
                 href: 'https://t.me/dodao_announcements',
+              },
+              {
+                label: 'Telegram Group',
+                href: 'https://t.me/dodao_group',
               },
               {
                 label: 'Discord',
@@ -120,12 +124,16 @@ const config = {
                 href: 'https://twitter.com/dodaodev',
               },
               {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@dodaodev',
+              },
+              {
                 label: 'Medium',
                 href: 'https://medium.com/@dodao',
               },
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/dodao.dev/',
+                href: 'https://www.instagram.com/dodao.dev',
               },
               // {
               //   label: 'Stack Overflow',
@@ -144,6 +152,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/devopsdao',
               },
+              {
+                label: 'Pitch',
+                href: 'https://t.me/dodao_pitch',
+              },
             ],
           },
         ],
@@ -154,6 +166,24 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: [
+      function svgFix() {
+        return {
+          name: 'svg-fix',
+          configureWebpack(config) {
+            const svgRuleIndex = config.module.rules.findIndex((r) => r.test.test('file.svg'))
+            const svgrConfigIndex = config.module.rules[svgRuleIndex].oneOf.findIndex((r) => {
+              if (!Array.isArray(r.use) || r.use.length === 0) return false
+              return r.use[0].loader.indexOf('@svgr/webpack') !== -1
+            })
+            if (svgRuleIndex === -1 || svgrConfigIndex === -1) return
+    
+            config.module.rules[svgRuleIndex].oneOf[svgrConfigIndex].use[0].options.svgoConfig.plugins[0].params.overrides.cleanupIDs = false
+          }
+        }
+      }
+    ]
 };
 
 module.exports = config;

@@ -69,6 +69,10 @@ For Web3 interaction we support our own WebThree library.
 1. Based on your skill profile apply for [dodao.dev developer](https://www.devopsdao.com/developer-onboarding-application/) or [dodao.dev creator](https://www.devopsdao.com/creator-onboarding-application/) program
 2. Contribute and share on [dodao telegram](https://t.me/dodao_group) or [dodao discord](https://discord.gg/qJwsv45QTd)
 
+## Budget
+
+[Our budget](./assets/budget.xlsx)
+
 ## Contact us
 
 Twitter:

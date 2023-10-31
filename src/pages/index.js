@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img src="/img/logos/LBColor.svg" />
+        <img src="/img/logos/LBColor-white-eye.svg" />
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
@@ -31,7 +31,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} intro and docs`}
+      title={`${siteConfig.title}`}
       description="Dodao.dev docs">
       <HomepageHeader />
       <main>
