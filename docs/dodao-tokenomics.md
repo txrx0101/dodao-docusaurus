@@ -139,7 +139,7 @@ Dodao Token will be needed to mint Skill tag NFTs.
 
 Dodao Token will be needed to participate in coding classes on our learning hub
 
-Dodao Token will be rewarded to students who complete coding courses on our learning hub
+Dodao Token will be rewarded to students who complete coding courses on our learning hub. Students can then use these Dodao Token as they wish.
 
 # Are Tasks paid in Dodao token?
 
