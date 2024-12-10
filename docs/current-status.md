@@ -157,3 +157,5 @@ LibWitnetRequest.sol [dev] - provides underlying functions for the WitnetFacet f
 - started implementation of NFT manager widget for future integration with the smart contract for creating, minting and displaying available NFTs
 
 - implementation of adding a Github repository to the Task and checking the repository pull requests via Witnet Oracle
+
+Check
